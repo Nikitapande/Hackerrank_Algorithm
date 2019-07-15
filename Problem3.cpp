@@ -11,6 +11,8 @@ ar: an array of integers .
 
 #include<iostream>
 using namespace std;
+#include<iostream>
+using namespace std;
 
 int main()
 {
@@ -32,3 +34,4 @@ int main()
     cout<<sum;    
     return 0;
 }
+
